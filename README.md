@@ -4,8 +4,11 @@ In this project, we apply neural style transfer techniques to clothing images, a
 
 Data: 
 The original images are present in the folder "original"
+
 The masks of the clothing for each image are present in the folder "all masks"
+
 The masks of the chosen images after performing style transfer are present in the folder "result_masks"
+
 The final blended images showcasing the clothing style transfer are present in the folder "blended images"   
 
 Created Dataset : 
