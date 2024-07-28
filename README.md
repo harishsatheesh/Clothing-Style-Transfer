@@ -1,6 +1,6 @@
 Project Overview
 
-In this project, we aim to apply neural style transfer techniques to clothing images, allowing users to experiment with different styles and apply them to various types of clothing. By leveraging neural networks and style transfer algorithms, we can transform mundane clothing images into unique and eye-catching pieces of art. 
+In this project, we apply neural style transfer techniques to clothing images, allowing users to experiment with different styles and apply them to various types of clothing. By leveraging neural networks and style transfer algorithms, we can transform mundane clothing images into unique and eye-catching pieces of art. 
 
 Data: 
 The original images are present in the folder "original"
