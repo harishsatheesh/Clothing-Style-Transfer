@@ -30,6 +30,8 @@ Dependencies:
 - Tensorflow
 - Numpy
 - Pillow
+## Contact
+For any queries, please contact harishsatheesh@outlook.com .
 
 ## License
 
